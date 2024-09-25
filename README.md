@@ -1,6 +1,11 @@
-# Tempest Project 🌪️
+# TFTH 🌪️
 
-Welcome to the Tempest project! This application is built with the latest PHP and served using FrankenPHP. The frontend is powered by Tailwind CSS.
+- Tempest (Core)
+- FrankenPHP (Runtime)
+- Tailwind (Style)
+- HTMX (Interactivity)
+
+This application is built with the latest PHP and served using FrankenPHP. The frontend is powered by Tailwind CSS.
 
 ## Getting Started 🚀
 
@@ -20,4 +25,8 @@ Enjoy coding! 🎉
 
 ## Future Consideration
 
-- replace node with bun
+- [ ] replace node with bun
+- [ ] Add HTMX
+- [ ] Add Swagger(OAS3)
+
+## Pure Backend
