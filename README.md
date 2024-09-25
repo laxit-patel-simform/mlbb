@@ -1,9 +1,23 @@
-## Project scaffold for [Tempest](https://github.com/tempestphp), an MVC micro framework that gets out of your way.
+# Tempest Project 🌪️
 
-```php
-composer create-project tempest/app <project-name>
-cd <project-name>
-npm run dev
+Welcome to the Tempest project! This application is built with the latest PHP and served using FrankenPHP. The frontend is powered by Tailwind CSS.
+
+## Getting Started 🚀
+
+To run the project, use Docker Compose:
+
+```bash
+docker-compose up
 ```
 
-Read all about Tempest in [the docs](https://github.com/tempestphp/tempest-docs/blob/master/01-getting-started.md).
+## Technologies Used 🛠️
+
+- **PHP**: Latest version
+- **FrankenPHP**: For serving the application
+- **Tailwind CSS**: For the frontend
+
+Enjoy coding! 🎉
+
+## Future Consideration
+
+- replace node with bun
